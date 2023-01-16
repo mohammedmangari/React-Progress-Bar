@@ -2,6 +2,7 @@
 
 This is a simple React.js application that displays a progress bar, which can be updated by inputting a percentage value.
 
+
 ## Getting Started
 1. Clone the repository to your local machine
 
